@@ -1,1 +1,1 @@
-BOT_TOKEN=your_bot_token_here
+8269838303:AAEvUcXC6xfhluDanTYRu6sxgfcIKMe6n74=your_bot_token_here
